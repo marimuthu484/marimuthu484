@@ -1,16 +1,98 @@
-## Hi there 👋
-# 💫 About Me:
-👋 Hi, I’m MARIMUTHU K<br>🔭 👀 I’m interested in Web Development <br>🌱 I’m currently learning React and node.js for full-stack development<br>😄 Pronouns: He/Him<br> 📫 How to reach me: marimuthu71@gmail.com | [www.linkedin.com/in/marimuthu71](https://www.linkedin.com/in/marimuthu71) <br>
+<h1 align="center">Hi 👋, I'm Marimuthu K</h1>
+<h3 align="center">Aspiring Full Stack Developer | Passionate about transforming ideas into real-world applications 💻🚀</h3>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=marimuthu484&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=marimuthu484&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MADHAN116&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MADHAN116&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-[![](https://visitcount.itsvg.in/api?id=MADHAN116&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🚀 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🎯 I'm an enthusiastic Computer Science Engineering student driven by curiosity and the desire to build impactful software solutions. My current journey revolves around **Full Stack Development** with a strong focus on the MERN stack. I love learning new technologies, solving problems, and creating user-friendly applications that make life easier.
 
+---
+
+## 💡 Current Focus
+
+### 🛠️ Real-World MERN Projects
+Building applications where:
+- Users can experience seamless frontend interfaces
+- Scalable backend architectures handle complex operations
+- Secure authentication and data integrity are top priorities
+- Responsive design and accessibility are ensured  
+**Tech Stack:** React.js | Node.js | Express.js | MongoDB
+
+---
+
+## 🧰 Technologies & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+- ✅ Solved multiple coding challenges and projects in MERN stack  
+- ✅ Developed responsive web applications showcasing dynamic user experiences  
+- ✅ Actively exploring **Data Structures, Algorithms**, and backend optimizations  
+- ✅ Built and deployed a personal portfolio to showcase my work and skills  
+
+---
+
+## 📜 Certifications
+
+| Platform     | Certification                             |
+|--------------|--------------------------------------------|
+| Infosys      | Database Management System                |
+| Infosys      | Angular Fundamentals                      |
+| Infosys      | CSS Basics                                |
+| Sololearn    | C Programming                             |
+| SQL          |  Oracle APEXpt Essentials                 |
+
+---
+
+## 📫 Contact Me
+
+- 📧 **Email:** kmarimuthu484@gmail.com  
+- 📱 **Phone:** 9677464227  
+- 🌐 **Portfolio:** [Visit My Portfolio](https://2212071-marimuthu-k-portfolio.netlify.app/)  
+- 📍 **Location:** Puliangudi, Tenkasi District, Tamil Nadu – 627855
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/marimuthu71/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kmarimuthu484@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/marimuthu484" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marimuthu484&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🚀 Keep Coding, Keep Growing!
